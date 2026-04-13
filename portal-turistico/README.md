@@ -7,4 +7,4 @@ Portal turístico interativo desenvolvido em HTML e CSS.
 
 
 -- Link do site
-https://github.com/zeta1-afk/portal-turistico/upload/main
+https://github.com/zeta1-afk/portal-turistico
